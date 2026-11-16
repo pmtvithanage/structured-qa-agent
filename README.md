@@ -70,7 +70,7 @@ Dependencies (`requirements.txt`):
 1. Clone the repository and enter the directory:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/pmtvithanage/structured-qa-agent.git
    cd structured-qa-agent
    ```
 
