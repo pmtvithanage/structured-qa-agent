@@ -298,4 +298,5 @@ To change the output shape, edit this model, then update the matching TypeScript
 - **CORS errors**: the API allows `http://localhost:5173` and `http://127.0.0.1:5173` by default. Set `FRONTEND_ORIGINS` to add other origins.
 - **Blank page after a production build**: run `npm run build` again in `frontend/` so `frontend/dist` exists, then restart `uvicorn`.
 
+
   
